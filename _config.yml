@@ -1,0 +1,27 @@
+title: Portfolio
+
+description: |
+  <div style="text-align: center;">
+    Je m'appelle 
+    <a href="https://github.com/SAM271MAS" style="color: white; font-weight: bold; text-decoration: underline;">
+      Sam
+    </a>
+    <br><br>
+
+  Vous trouverez ici mon parcours d’auto-formation en  
+  <a href="#cybersecurite" style="color: white; font-weight: bold; text-decoration: underline;">cybersécurité</a>, ainsi qu’un aperçu des projets que j’ai menés au cours de mes trois années de licence à Sorbonne Université.
+    
+    Les réalisations, regroupant des projets menés seuls, en binôme ou en groupe (3 à 5 personnes), sont classées par niveau de ma licence
+      (<a href="#L3" style="color: white; font-weight: bold; text-decoration: underline;">L3</a>,
+       <a href="#L2" style="color: white; font-weight: bold; text-decoration: underline;">L2</a>,
+       <a href="#L1" style="color: white; font-weight: bold; text-decoration: underline;">L1</a>)
+    et par matière.
+    Certains se sont déroulés sur quelques semaines, tandis que d’autres ont occupé tout un semestre.
+  </div>
+
+show_downloads: false
+theme: jekyll-theme-cayman
+
+github:
+  is_project_page: false
+
