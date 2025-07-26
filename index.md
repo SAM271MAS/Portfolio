@@ -113,7 +113,7 @@ Je compte renforcer encore davantage mes entraînements à l’avenir pour ancre
 
 ### Réseaux
 
-- **Travaux Pratiques :** Réalisation de TP axés sur l’analyse du trafic réseau et la compréhension des protocoles de communication, à l’aide de Wireshark et de machines virtuelles.
+- **Travaux Pratiques :** analyse du trafic réseau et compréhension des protocoles de communication, à l’aide de Wireshark et de machines virtuelles.
 - **Domaines étudiés :**  
   - Architecture LAN et VLAN  
   - Adressage IP et exploitation du protocole ARP  
