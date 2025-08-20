@@ -34,52 +34,67 @@ title: Bienvenue sur mon portfolio
 **Certifications et formations**
 
 - Analyste Junior en Cybersécurité – Cisco Networking Academy (en cours)  
+- Introduction to Cloud Computing - IBM
 - MOOC SecNumacadémie – ANSSI  
 - Practical Ethical Hacking – Udemy  
 - Phishing : A Technical Course – JustHacking  
-- Pratique régulière sur TryHackMe
+- Plusieurs modules suivis sur AWS Training et Microsoft Learn, couvrant les fondamentaux du cloud et la sécurisation des environnements AWS/Azure
+- TryHackMe - Pratique régulière avec complétion de modules :
+    - Web Fundamentals
+    - Cyber Security
+    - Pre Security
 <div class="iframe-wrapper">
   <iframe
     src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2709730">
   </iframe>
 </div>
 
-**Environnements** 
 
-- Virtualisation : QEMU/KVM, VirtualBox, Docker  
-- Systèmes d’exploitation : Kali Linux, Parrot OS, Arch Linux  
+### Domaines de Compétence
 
-**Pentest & outils**
+**Sécurité offensive (Red Team)**
 
-- Reconnaissance et énumération : Nmap, Masscan, Gobuster, dirb  
-- Exploitation : Metasploit  
-- Analyse d’applications web : Burp Suite, OWASP ZAP  
-- Outils complémentaires : Hydra, John the Ripper, sqlmap  
+- Connaissance et mise en application des principales phases d’un test d’intrusion
+    1. Reconnaissance (passive/active) : collecte d'informations, scan réseau, fingerprinting
+    2. Énumération : découverte de services, endpoints, utilisateurs
+    3. Exploitation : vulnérabilités Web et systèmes (OWASP Top 10, CVEs, exécutions de commandes, escalades de privilèges ...)
+    4. Post-exploitation : élévation de privilèges (ex. via GTFOBins), extraction de données, persistence
+    5. Mouvement latéral : pivoting, accès à d’autres machines/segments
+    6. Reporting : documentation technique claire avec preuves, scoring de risques et recommandations
 
-**Techniques de hacking**
+- Techniques de phishing avancé :
+    - Déploiement d’infrastructure (GoPhish)
+    - Capture de credentials, redirections malveillantes
+    - Suivi et rapport de campagne
 
-- Élévation de privilèges sous Linux  
-- Injections SQL  
-- Upload de web-shells  
-- Reverse shells  
-- Cracking de hachages  
-- Phishing avancé : déploiement d’infrastructures email et GoPhish, capture de credentials, suivi et reporting de campagne  
+**Sécurité défensive (Blue Team)**
+- Analyse de trafic et détection d’anomalies
+- Durcissement des systèmes :
+    - Linux : firewall, permissions, audit des logs
+    - Windows : Active Directory, GPO, politique de mot de passe
+- Connaissance des mécanismes IDS/IPS et outils de monitoring
+- Compréhension des rôles et responsabilités d’une équipe SOC
 
-**Défense & surveillance (Blue Team)**
+**Gouvernance, Risques & Conformité (GRC)**
+- Compréhension des rôles et responsabilités en gouvernance, gestion des risques et conformité
+- Connaissance des normes et standards ISO 27001, NIST 800-53 et RGPD
 
-- Analyse de trafic réseau : Wireshark  
-- Compréhension des rôles globaux des équipes Blue Team  
-- Bonne compréhension des protocoles réseau et configuration Linux  
+### Outils & Technologies (Liste non exhaustive)
+**Environnements & Virtualisation** 
 
-**Gouvernance, normes et conformité**
+- Proxmox, QEMU/KVM, VirtualBox, Docker, Kubernetes
+- Kali Linux, Parrot OS, Arch Linux, REMnux, Flare-VM
 
-- Compréhension des rôles et responsabilités en gouvernance, gestion des risques et conformité (GRC)  
-- Bases des cadres légaux et politiques internationaux  
-- Notions clés des standards ISO 27001 et NIST 800-53  
+**Analyse & Forensic**
+- Wireshark : Analyse de paquets réseau
+- CyberChef : Décodage, cryptanalyse, transformation de données
+- Splunk : Centralisation de logs, détection d'incidents, visualisation (SIEM)
 
-Je compte renforcer encore davantage mes entraînements à l’avenir pour ancrer solidement mes bases et continuer à progresser.
-
-
+**Pentest & Sécurité offensive**
+- Reconnaissance & Scan : Nmap, Masscan, Gobuster, Dirb
+- Exploitation : Metasploit, reverse shells, Netcat
+- Pentest Web : Burp Suite, OWASP ZAP, sqlmap, Hydra
+- Cracking : John the Ripper, Hashcat, CrackStation
 
 
 <h1 style="border-bottom: none; display: inline-flex; align-items: center;">
