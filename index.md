@@ -73,6 +73,7 @@ title: Bienvenue sur mon portfolio
     - Linux : firewall, permissions, audit des logs
     - Windows : Active Directory, GPO, politique de mot de passe
 - Connaissance des mécanismes IDS/IPS et outils de monitoring
+- Connaissance des principaux protocoles applicatifs : DNS, HTTP, FTP, Telnet, SMTP, POP3, IMAP
 - Compréhension des rôles et responsabilités d’une équipe SOC
 
 **Gouvernance, Risques & Conformité (GRC)**
@@ -92,8 +93,9 @@ title: Bienvenue sur mon portfolio
 
 **Pentest & Sécurité offensive**
 - Reconnaissance & Scan : Nmap, Masscan, Gobuster, Dirb
-- Exploitation : Metasploit, reverse shells, Netcat
-- Pentest Web : Burp Suite, OWASP ZAP, sqlmap, Hydra
+- Exploitation : Metasploit (msfconsole/msfvenom), Netcat (reverse/tunnel)
+- Pentest Web : Burp Suite, OWASP ZAP, sqlmap
+- Brute-force / Password attacking : Hydra, Patator
 - Cracking : John the Ripper, Hashcat, CrackStation
 
 
